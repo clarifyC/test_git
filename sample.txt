@@ -6,3 +6,7 @@ git_test2 new content
 
 git_test2 edited
 >>>>>>> 402c4250006f6a940c57a151a75ceb77ebe89e9d
+
+
+
+git_test1 second new content
